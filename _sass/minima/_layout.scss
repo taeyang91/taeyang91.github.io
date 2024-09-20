@@ -13,7 +13,7 @@
 
 .site-title {
   @include relative-font-size(1.625);
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -149,6 +149,7 @@
 
 .footer-col {
   margin-bottom: $spacing-unit * .5;
+  text-align: center;
 }
 
 .footer-col-1,
